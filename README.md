@@ -5,6 +5,6 @@ HW1 - Histograms, Filters(Low Pass, High Pass, Gaussian), Deconvolution, Blendin
 
 HW2 - Image Alignment, Creating Panoramas by image stitching
 
-HW3: Detection and Tracking
+HW3 - Detection and Tracking
 
 Coming Soon : Segmentation
