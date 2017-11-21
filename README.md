@@ -9,4 +9,4 @@ HW3 - Detection and Tracking
 
 HW4 : Segmentation
 
-HW5 : Structured Light
+HW5 : Structured Light 3D Reconstruction
