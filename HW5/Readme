@@ -1,0 +1,10 @@
+HW5: Structured Light
+
+Your goal is to reconstruct a scene from multiple structured light scannings of it.
+ - Calibrate projector with the “easy” method
+ - Use ray-plane intersection
+ - Get 2D-3D correspondence and use stereo calibration
+ - Get the binary code for each pixel - this you should do, but it's super easy
+ - Correlate code with (x,y) position - we provide a "codebook" from binary code -> (x,y)
+        With 2D-2D correspondence
+ - Perform stereo triangulation (existing function) to get a depth map
