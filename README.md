@@ -7,4 +7,6 @@ HW2 - Image Alignment, Creating Panoramas by image stitching
 
 HW3 - Detection and Tracking
 
-Coming Soon : Segmentation
+HW4 : Segmentation
+
+Coming Soon : 3D Scanner
