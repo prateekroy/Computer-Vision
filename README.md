@@ -9,4 +9,4 @@ HW3 - Detection and Tracking
 
 HW4 : Segmentation
 
-Coming Soon : 3D Scanner
+HW5 : Structured Light
